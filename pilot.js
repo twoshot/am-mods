@@ -33,8 +33,8 @@
     id:"d35dev",
     description:"ʅʕ•ᴥ•ʔʃ",
     version:"1",
-    author:"twoshot",
-    settingsProvider: createSettingsProvider()
+    author:"twoshot"
+//     settingsProvider: createSettingsProvider()
   });
 
 }();
